@@ -56,7 +56,7 @@
                 <div class="container">
                     <div class="main-nav__logo-box">
                         <a href="index.html">
-                            <img src="assetts/images/logo-2-1.png" alt="">
+                            <img src="assetts/images/favicons/favicon-16x16.png" alt="">
                         </a>
                     </div><!-- /.main-nav__logo-box -->
                     <div class="main-nav__main-navigation">
@@ -79,9 +79,10 @@
                             </li>
                         </ul>
                     </div><!-- /.main-nav__main-navigation -->
+                    <
                     <div class="main-nav__right">
                         <a href="#" class="side-menu__toggler"><span></span></a>
-                    </div><!-- /.main-nav__right -->
+                    </div><!-- /.main-nav__right
                 </div><!-- /.container -->
             </nav><!-- /.main-nav__one -->
 
