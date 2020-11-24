@@ -50,43 +50,9 @@
         <img src="assetts/images/loader-2.png" class="preloader__image" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
-
-        <header class="site-header-two site-header-two__">
-            <nav class="main-nav__two stricky">
-                <div class="container">
-                    <div class="main-nav__logo-box">
-                        <a href="index.html">
-                            <img src="assetts/images/favicons/favicon-16x16.png" alt="">
-                        </a>
-                    </div><!-- /.main-nav__logo-box -->
-                    <div class="main-nav__main-navigation">
-                        <ul class=" main-nav__navigation-box">
-                            <li>
-                                <a href="index.html">Home</a>
-
-                            </li>
-                            <li>
-                                <a href="about.html">Productos</a>
-                            </li>
-                            <li >
-                                <a href="services-1.html">Desarrollos</a>
-                            </li>
-                            <li >
-                                <a href="portfolio-standard.html">Intra-Groups</a>
-                            </li>
-                            <li>
-                                <a href="contact.html">Contact</a>
-                            </li>
-                        </ul>
-                    </div><!-- /.main-nav__main-navigation -->
-                    <
-                    <div class="main-nav__right">
-                        <a href="#" class="side-menu__toggler"><span></span></a>
-                    </div><!-- /.main-nav__right
-                </div><!-- /.container -->
-            </nav><!-- /.main-nav__one -->
-
-        </header><!-- /.site-header-two -->
+        <section class="service-two" style="background-image: url(assetts/images/shapes/dotted-patter-2.png); padding-top:50px; ">
+            @include('includes.nav')
+        </section>
 
         <section class="banner-two">
 
