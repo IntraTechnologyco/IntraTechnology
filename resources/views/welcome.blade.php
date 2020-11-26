@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>@yield('titulo', 'Pagina Oficial') | Intratechnology</title>
+    <title>@yield('titulo', '') Intratechnology</title>
     <link rel="apple-touch-icon" sizes="180x180" href="assetts/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assetts/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assetts/images/favicons/favicon-16x16.png">
@@ -49,8 +49,8 @@
     <div class="preloader">
         <img src="assetts/images/loader-2.png" class="preloader__image" alt="">
     </div><!-- /.preloader -->
-    <div class="page-wrapper">
-        <div class="service-two" style="background-image: url(assetts/images/shapes/dotted-patter-1.png); padding-top:50px; background-color:gray; ">
+    <div class="page-wrapper" style="background: white" >
+        <div class="service-two" style="padding-top:50px !important; background-color: trans    parent;  ">
             @include('includes.nav')
         </div>
 

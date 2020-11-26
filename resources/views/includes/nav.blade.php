@@ -20,14 +20,14 @@
             <div class="container">
                 <div class="main-nav__logo-box">
                     <a href="index.html">
-                        <img src="assetts/images/logo-full-light.png" alt="">
+                        <img src="assetts/images/favicons/favicon-32x32.png" alt="">
                     </a>
                     <a href="#" class="side-menu__toggler"><span></span></a>
                 </div><!-- /.main-nav__logo-box -->
                 <div class="main-nav__main-navigation">
-                    <ul class=" main-nav__navigation-box">
+                    <ul class=" main-nav__navigation-box" style="align:center;">
                         <li class="dropdown">
-                            <a href="contact.html">Productos</a>
+                            <a href="contact.html" >Productos</a>
                             <ul>
                                 <li><a href="">1</a></li>
                                 <li><a href="">2</a></li>
@@ -35,13 +35,15 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="contact.html">Desarrollos</a>
+                            <a href="contact.html" style="color: black">Desarrollos</a>
                         </li>
                         <li>
-                            <a href="contact.html">Intra Groups</a>
-                        </li>
+                            <a href="contact.html" style="color: black">Intra Groups</a>
+                        </li >
                         <li>
-                            <a href="contact.html">Contact</a>
+                            <a href="contact.html" style="color: black;
+                            border:1px solid brown;
+                            border-radius:30px; width:100px; text-align: left !important;">Contact</a>
                         </li>
                     </ul>
                 </div><!-- /.main-nav__main-navigation -->
